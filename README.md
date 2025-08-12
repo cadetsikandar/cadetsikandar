@@ -89,9 +89,6 @@ Recognizes UML diagrams from images (hand-drawn/digital)
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/cadetsikandar/cadetsikandar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 ---
