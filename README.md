@@ -47,7 +47,7 @@ AI system that converts hand-drawn UML diagrams into editable **StarUML XMI** fo
 
 ---
 
-### 🔹 [Face Recognition Attendance System](https://github.com/cadetsikandar/face-attendance-system)
+### 🔹 [Face Recognition Attendance System](https://github.com/cadetsikandar/Face-Recognition-Attendance)
 AI-powered attendance solution with **YOLOv8 + DeepFace**  
 - 📅 Logs attendance in **Excel**, marking each student once per day  
 - 🛡 Prevents fake attendance using real-time face authentication  
@@ -63,7 +63,7 @@ Smart document scanning pipeline for digitization
 
 ---
 
-### 🔹 [Rice Classification with CNNs](https://github.com/cadetsikandar/rice-classification)
+### 🔹 [Rice Classification with CNNs](https://github.com/cadetsikandar/rice-classification-pytorch)
 Binary classification of Jasmine vs. Gonen rice grains  
 - 🧠 Implemented **custom CNNs in PyTorch** with BatchNorm, Dropout, and GAP  
 - 📊 Achieved **~83% validation accuracy**  
@@ -71,7 +71,7 @@ Binary classification of Jasmine vs. Gonen rice grains
 
 ---
 
-### 🔹 [Automatic Number Plate Recognition (ANPR)](https://github.com/cadetsikandar/anpr-system)
+### 🔹 [Automatic Number Plate Recognition (ANPR)](https://github.com/cadetsikandar/Automatic_Number_Plate_Recognition)
 End-to-end license plate recognition pipeline  
 - 🚘 Used **YOLOv8 for detection** + **EasyOCR/Tesseract** for recognition  
 - ⚡ Added FPS overlay and preprocessing for robust OCR  
