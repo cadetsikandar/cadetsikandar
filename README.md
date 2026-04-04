@@ -1,98 +1,91 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Sikandar Ali</h1>
-<h3 align="center">AI Engineer | Deep Learning | Computer Vision | Machine Learning</h3>
+<h1 align="center">Hi there, I'm Sikandar Ali</h1>
+<h3 align="center">Founder @ NawayTech | Automation & Full Stack Developer</h3>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/cadetsikandar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=Computer+Science+Graduate;Computer+Vision+Engineer;Deep+Learning+Practitioner;AI+Driven+Solutions+Builder;Transforming+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=700&lines=Automation+%26+Full+Stack+Developer;Make.com+%7C+n8n+%7C+GoHighLevel+Expert;CRM+Migration+%26+Integration+Specialist;AI+Pipeline+Builder;Founder+%40+NawayTech" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **BS in Computer Science** – Riphah International University (GPA 3.07)  
-- 🤖 Passionate about **AI, Deep Learning, and Computer Vision**  
-- 🛠 Experienced with **Python, PyTorch, TensorFlow, OpenCV, Scikit-Learn**  
-- 📊 Interested in **real-world AI applications**: automation, security, document intelligence  
-- 💡 Focused on **clean, modular code** and **production-ready AI systems**  
+## About Me
+
+I'm Sikandar Ali, Founder of NawayTech and an Automation & Full Stack Developer based in Pakistan.
+
+I help businesses stop wasting time on manual work by building systems that run on autopilot. Over the past few years I've worked across automation, CRM migrations, AI pipelines, and full stack development — delivering real results for real clients.
+
+Most recently I worked as an **Automation & CRM Expert at DevRolin (Dubai)** from September 2025 to April 2026, where I independently managed and delivered 10–15 complex automation and CRM projects end to end.
 
 ---
 
-## 🛠 Tech Stack
+## What I Do
+
+- **Workflow Automation** — Make.com, n8n, Zapier
+- **CRM Setup & Migration** — GoHighLevel, Salesforce, HubSpot
+- **AI Pipelines** — Claude API, OpenAI, Google Gemini, DALL·E
+- **Full Stack Development** — React, Node.js, Express.js, Supabase, Python
+- **Email & Marketing Automation** — ConvertKit, ManyChat, Teachable
+- **Project Management Systems** — Monday.com, automation workflows
+
+---
+
+## Key Achievements
+
+- Built AI-powered content automation systems for LinkedIn, Instagram, Facebook, blogs, newsletters, and YouTube — reducing manual workload by 90%
+- Led an enterprise-level CRM migration of 20,000+ users and 200,000+ emails from Salesforce to GoHighLevel with zero data loss
+- Integrated ManyChat, ConvertKit, and Teachable into automated email sequences that improved customer engagement and sales
+- Built automated social media posting systems using n8n and AI tools
+- Set up and optimized Monday.com project management boards and automation workflows for team collaboration
+
+---
+
+## Tech Stack
+
 <p align="center">
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white" />
+  <img src="https://img.shields.io/badge/ConvertKit-FB6970?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ManyChat-2196F3?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## Experience
 
-### 🔹 [Hand-Sketched UML Diagram Recognition & Conversion](https://github.com/sikandar27666/Hand_Sketched_UML_Diagram_Recognition_and_Conversion)
-AI system that converts hand-drawn UML diagrams into editable **StarUML XMI** format.  
-- 🖼 Trained **YOLOv8** models on **Roboflow** for class & activity diagram element detection  
-- 📏 Extracted relationships (inheritance, aggregation, control-flow) using nearest-neighbor heuristics  
-- 📝 Applied **Tesseract OCR** for handwritten text recognition  
-- 🌐 Built a **Flask web app** with upload, detection, and export functionality  
-- 📦 Output in **JSON → XMI**, compatible with StarUML  
+**Automation & CRM Expert — DevRolin, Dubai**
+September 2025 – April 2026
 
----
+Worked as a full-time automation expert, independently managing and delivering 10–15 projects across AI content automation, CRM migration, workflow integration, and project management systems.
 
-### 🔹 [Face Recognition Attendance System](https://github.com/cadetsikandar/Face-Recognition-Attendance)
-AI-powered attendance solution with **YOLOv8 + DeepFace**  
-- 📅 Logs attendance in **Excel**, marking each student once per day  
-- 🛡 Prevents fake attendance using real-time face authentication  
-- 🎥 Built in **Jupyter Notebook (Anaconda)** with modular design  
+**Founder — NawayTech**
+2026 – Present
+
+Running NawayTech, an automation and full stack development agency helping businesses eliminate manual work and build powerful digital systems.
 
 ---
 
-### 🔹 [AI-Powered Document Scanner](https://github.com/cadetsikandar/document-scanner)
-Smart document scanning pipeline for digitization  
-- 🔍 Detects & crops documents using **OpenCV contours + perspective transforms**  
-- 🎨 Enhances scans with **NumPy-based filters**  
-- 📝 Extended with OCR integration (EasyOCR / Tesseract) for text extraction  
+## Certifications
+
+- Google Project Management — Google
+- Google IT Support — Google
+- Introduction to AI — IBM
+- Foundations: Data, Data, Everywhere — Google
 
 ---
 
-### 🔹 [Rice Classification with CNNs](https://github.com/cadetsikandar/rice-classification-pytorch)
-Binary classification of Jasmine vs. Gonen rice grains  
-- 🧠 Implemented **custom CNNs in PyTorch** with BatchNorm, Dropout, and GAP  
-- 📊 Achieved **~83% validation accuracy**  
-- 🔁 Compared multiple models & applied **regularization techniques**  
+## GitHub Stats
 
----
-
-### 🔹 [Automatic Number Plate Recognition (ANPR)](https://github.com/cadetsikandar/Automatic_Number_Plate_Recognition)
-End-to-end license plate recognition pipeline  
-- 🚘 Used **YOLOv8 for detection** + **EasyOCR/Tesseract** for recognition  
-- ⚡ Added FPS overlay and preprocessing for robust OCR  
-- ✅ Real-world application for **smart surveillance & traffic monitoring**  
-
----
-
-## 🏆 Achievements
-- 🥇 **Inter-House Shooting Champion** – Cadet College Petaro   
-
----
-
-## 📜 Certifications
-- **Google Project Management** – Google  
-- **Google IT Support** – Google  
-- **Introduction to AI** – IBM  
-- **Foundations: Data, Data, Everywhere** – Google  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cadetsikandar&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadetsikandar&layout=compact&theme=radical" height="180" />
@@ -100,9 +93,11 @@ End-to-end license plate recognition pipeline
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
+
 <p align="center">
   <a href="mailto:sikandar.umrani.5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sikandar-ali-umrani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sikandar-ali-sk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sikandarportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/cadetsikandar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
