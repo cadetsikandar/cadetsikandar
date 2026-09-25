@@ -1,76 +1,135 @@
-<h1 align="center">Hi, I'm Sikandar Ali</h1>
+<div align="center">
 
-<h3 align="center">Automation & Full Stack Developer | AI Workflow Engineer | Founder @ NawayTech</h3>
+# 👋 Hey, I'm <span style="color:#22D3EE">Sikandar Ali</span>
 
-<p align="center">
-  <a href="https://github.com/cadetsikandar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Automation+%26+Full+Stack+Developer;AI+Workflow+%26+Integration+Engineer;n8n+%7C+Make.com+%7C+GoHighLevel+%7C+HubSpot;CRM+Migration+%26+API+Integration+Specialist;Next.js+%7C+TypeScript+%7C+FastAPI+%7C+Supabase;Building+Systems+That+Automate+Real+Business+Work" alt="Typing SVG" />
-  </a>
+### ⚡ Automation Engineer · AI Workflow Builder · Full Stack Developer · Founder @ NawayTech
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Business+Automation;Designing+Scalable+CRM+%26+API+Integrations;Turning+Manual+Processes+Into+Automated+Systems;Full+Stack+%7C+AI+%7C+n8n+%7C+Next.js+%7C+FastAPI" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://sikandarportfolio-five.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-22D3EE?style=for-the-badge&labelColor=0F172A" />
   </a>
   <a href="https://www.linkedin.com/in/sikandar-ali-sk/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sikandar.umrani.5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:22D3EE&height=120&section=header" width="100%"/>
 
-## About Me
-
-I'm **Sikandar Ali**, an Automation & Full Stack Developer and Founder of **NawayTech**, based in Pakistan.
-
-I build **business automation systems, AI-powered workflows, CRM integrations, and full-stack applications** that connect different tools and turn repetitive processes into reliable automated systems.
-
-My work sits at the intersection of:
-
-* Automation Engineering
-* AI & LLM-powered workflows
-* CRM & marketing systems
-* API integrations
-* Full-stack web development
-* Data migration
-* Business process automation
-
-I enjoy taking a process that currently requires multiple people, spreadsheets, emails, and manual steps — and turning it into a system that runs automatically.
+</div>
 
 ---
 
-## What I Build
+# 🚀 About Me
 
-### Automation & AI
+```typescript
+const sikandar = {
+    role: "Automation & Full Stack Developer",
+    founder: "NawayTech",
+    location: "Pakistan 🇵🇰",
 
-* n8n workflow automation
+    focus: [
+        "AI Automation",
+        "Business Process Automation",
+        "CRM Integrations",
+        "API & Webhook Systems",
+        "Full Stack Development"
+    ],
+
+    automation: ["n8n", "Make.com", "Zapier", "GoHighLevel"],
+
+    development: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "FastAPI",
+        "Python",
+        "Supabase"
+    ],
+
+    ai: [
+        "OpenAI",
+        "Claude",
+        "Gemini",
+        "Ollama",
+        "AI Agents"
+    ],
+
+    currentlyBuilding: "NawayTech + Nrtur CRM"
+};
+```
+
+I build systems that connect **AI, CRMs, APIs and business tools** into automated workflows.
+
+My goal is simple:
+
+> **Take repetitive business work → turn it into a reliable automated system.**
+
+---
+
+# 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation Engineering
+
+* n8n workflow architecture
 * Make.com automation
 * Zapier integrations
-* AI qualification & routing systems
-* LLM-powered workflows
-* AI content generation pipelines
-* Automated lead processing
-* AI-assisted business operations
-* Multi-platform content automation
-* Error handling, retries & execution logging
+* Webhooks & API integrations
+* Error handling & retries
+* Execution logging
+* Reusable workflow architecture
+* Automated notifications
+* Lead routing
 
-### CRM & Business Systems
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+* AI lead qualification
+* LLM-powered workflows
+* AI content generation
+* AI agents
+* Automated decision pipelines
+* OpenAI integrations
+* Claude integrations
+* Gemini integrations
+* Retell AI workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 CRM & Business Systems
 
 * GoHighLevel
 * HubSpot
 * Salesforce
 * Freshsales
 * CRM migrations
-* Lead routing & qualification
-* Appointment booking systems
+* Lead management
+* Appointment automation
 * Email automation
-* Marketing automation
-* Custom CRM integrations
+* Marketing workflows
 
-### Full Stack Development
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Full Stack Development
 
 * Next.js
 * React
@@ -80,251 +139,416 @@ I enjoy taking a process that currently requires multiple people, spreadsheets, 
 * FastAPI
 * Python
 * Supabase
+* PostgreSQL
 * REST APIs
-* Webhooks
-* Git & GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Recent Work & Achievements
+# 📊 By The Numbers
 
-### CRM Migration & Automation
+<div align="center">
 
-* Migrated **25,000+ contacts, 9,000+ accounts and 7,000+ opportunities** from Salesforce to GoHighLevel.
-* Worked with approximately **160,000 email conversation records** during CRM migration and integration work.
-* Built automated lead-management and CRM workflows using **HubSpot, GoHighLevel, Salesforce and Freshsales**.
-* Built reusable workflows designed around client-specific configuration rather than hard-coded logic.
+<table>
+<tr>
+<td align="center">
+<h2>25K+</h2>
+<p>CRM Contacts Migrated</p>
+</td>
 
-### AI & Content Automation
+<td align="center">
+<h2>9K+</h2>
+<p>Accounts Migrated</p>
+</td>
 
-* Built AI-powered content automation systems for generating and distributing content across **LinkedIn, Instagram, Facebook, X, YouTube and blogs**.
-* Automated workflows connecting **Google Drive, Google Sheets, AI services and social platforms**.
-* Designed content pipelines that reduce repetitive manual publishing and content-processing work.
+<td align="center">
+<h2>7K+</h2>
+<p>Opportunities Migrated</p>
+</td>
 
-### Lead Generation & Marketing Automation
+<td align="center">
+<h2>160K+</h2>
+<p>Email Conversations</p>
+</td>
+</tr>
 
-* Built automated lead engines using **n8n + HubSpot**.
-* Integrated **Freshsales, Google Ads, LinkedIn Conversions API, WordPress Forms, GTM and consent workflows**.
-* Built automated lead qualification, routing, CRM updates and follow-up systems.
-* Worked with **Retell** and Make.com for AI-powered appointment and calling workflows.
+<tr>
+<td align="center">
+<h2>10–15</h2>
+<p>Automation Projects</p>
+</td>
 
-### Full Stack Development
+<td align="center">
+<h2>2×</h2>
+<p>Pull Shark</p>
+</td>
 
-* Building modern web applications using **Next.js, TypeScript, React, shadcn/ui and Supabase**.
-* Developing backend services and APIs using **FastAPI and Python**.
-* Building CRM-style interfaces, dashboards and internal business tools.
-* Using Git/GitHub-based workflows for collaborative development.
+<td align="center">
+<h2>2×</h2>
+<p>Pair Extraordinaire</p>
+</td>
 
----
+<td align="center">
+<h2>∞</h2>
+<p>Automation Ideas</p>
+</td>
+</tr>
+</table>
 
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cadetsikandar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=5" alt="GitHub Trophies" />
-</p>
-
-### Current GitHub Achievements
-
-* 🦈 **Pull Shark ×2**
-* 🤝 **Pair Extraordinaire ×2**
-* 🎲 **YOLO**
-
-These achievements reflect my activity around GitHub collaboration, pull requests and development workflows.
-
----
-
-## Tech Stack
-
-### Automation & Integration
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retell_AI-111827?style=for-the-badge&logoColor=white" />
-</p>
-
-### AI & LLM
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
-</p>
-
-### CRM & Marketing
-
-<p>
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freshsales-00A98F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white" />
-  <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lucide-FFB000?style=for-the-badge&logoColor=white" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-444444?style=for-the-badge&logoColor=white" />
-</p>
-
-### Database & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## Featured Projects
+# 🏆 GitHub Achievements
 
-### AI Editorial Automation System
+<div align="center">
 
-AI-powered content generation and distribution pipeline designed to automate the creation and publishing of business content across multiple platforms.
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Stack:** n8n · AI/LLMs · Google Drive · Google Sheets · APIs · Social Platforms
+## 🦈
+
+### Pull Shark ×2
+
+Merged pull requests and contributed through GitHub collaboration.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🤝
+
+### Pair Extraordinaire ×2
+
+Collaborative development and contribution activity.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎲
+
+### YOLO
+
+A GitHub achievement earned through contribution activity.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### AI Lead Qualification & CRM Automation
+# 🛠️ Technology Stack
 
-Automated lead processing system that captures incoming leads, qualifies them using AI, routes them according to configurable rules, updates CRM records, sends personalized follow-ups and triggers internal notifications.
+<div align="center">
 
-**Stack:** n8n · AI · HubSpot · Email APIs · Webhooks · Appointment Booking
+### 🤖 Automation
+
+<img src="https://skillicons.dev/icons?i=python,nodejs" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retell_AI-111827?style=for-the-badge"/>
+
+### 🧠 AI
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+### 💻 Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lucide-000000?style=for-the-badge"/>
+
+### ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-### CRM Migration & Integration Systems
+# 🔌 CRM & Integration Ecosystem
 
-Large-scale CRM migration and synchronization workflows connecting Salesforce, GoHighLevel, HubSpot and other business systems while preserving structured customer and communication data.
+<div align="center">
 
-**Stack:** Salesforce · GoHighLevel · HubSpot · n8n · Make.com · APIs
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freshsales-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn%20CAPI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-444444?style=for-the-badge"/>
+
+</div>
 
 ---
 
-### NawayTech
+# 💼 Selected Work
 
-Building **NawayTech** as an automation and software development company focused on helping businesses automate operations, integrate their tools and build custom digital systems.
+## 🤖 AI Lead Qualification & CRM Automation
 
-**Focus:** AI Automation · CRM · Full Stack Development · Integrations · Business Systems
+A complete automated lead pipeline:
+
+```text
+Lead Capture
+     ↓
+AI Qualification
+     ↓
+Lead Routing
+     ↓
+CRM Create / Update
+     ↓
+Personalized Follow-up
+     ↓
+Appointment Booking
+     ↓
+Internal Notification
+     ↓
+Logging + Error Handling
+```
+
+**Stack**
+
+`n8n` · `AI/LLMs` · `HubSpot` · `Email APIs` · `Webhooks` · `Booking APIs`
 
 ---
 
-## Experience
+## 📣 AI Editorial Automation
 
-### Automation & CRM Expert — DevRolin, Dubai
+An automated content engine connecting:
 
-**September 2025 – April 2026**
+```text
+Content Input
+      ↓
+AI Processing
+      ↓
+Content Generation
+      ↓
+Approval / Validation
+      ↓
+Multi-platform Distribution
+      ↓
+Analytics / Logging
+```
 
-Worked on automation, CRM, AI content systems, integrations, migrations and business process automation.
+Automates content workflows across platforms including:
 
-* Independently delivered **10–15 automation and CRM projects**
-* Built AI-powered content workflows
+**LinkedIn · Instagram · Facebook · X · YouTube · Blogs**
+
+**Stack**
+
+`n8n` · `AI` · `Google Drive` · `Google Sheets` · `APIs`
+
+---
+
+## 🔄 Enterprise CRM Migration
+
+Worked on large-scale CRM migration and integration workflows involving:
+
+```text
+Salesforce
+     ↓
+Data Transformation
+     ↓
+Validation
+     ↓
+GoHighLevel
+     ↓
+Automated Follow-up
+     ↓
+Ongoing Synchronization
+```
+
+### Migration scale
+
+| Data                |   Volume |
+| ------------------- | -------: |
+| Contacts            |  25,000+ |
+| Accounts            |   9,000+ |
+| Opportunities       |   7,000+ |
+| Email conversations | 160,000+ |
+
+---
+
+# 🏗️ Current Projects
+
+### 🏢 NawayTech
+
+**Automation · AI · CRM · Full Stack**
+
+Building NawayTech into a software and automation company focused on helping businesses eliminate repetitive work through intelligent systems.
+
+---
+
+### 🧩 Nrtur CRM
+
+A CRM platform currently being developed around modern business automation and customer-management workflows.
+
+**Focus**
+
+`CRM` · `Automation` · `AI` · `Integrations` · `Business Operations`
+
+---
+
+# 👨‍💻 Experience
+
+### Automation & CRM Expert
+
+**DevRolin · Dubai**
+
+`September 2025 — April 2026`
+
+* Delivered 10–15 automation and CRM projects
+* Built AI-powered content systems
 * Worked on large-scale CRM migration
-* Built integrations between multiple SaaS platforms
+* Developed complex Make.com workflows
+* Built integrations between SaaS platforms
 * Automated marketing and customer workflows
-* Designed and maintained complex Make.com and n8n workflows
-
-### Founder — NawayTech
-
-**2026 – Present**
-
-Building an automation and software development company focused on:
-
-* AI automation
-* Business process automation
-* CRM solutions
-* API integrations
-* Full-stack applications
-* Custom internal business systems
+* Designed reusable automation architectures
 
 ---
 
-## Certifications
+### Founder & Automation Engineer
 
-* **Google Project Management** — Google
-* **Google IT Support** — Google
-* **Introduction to AI** — IBM
-* **Foundations: Data, Data, Everywhere** — Google
+**NawayTech**
 
----
+`2026 — Present`
 
-## GitHub Stats
+Building solutions around:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadetsikandar&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadetsikandar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+`AI Automation` · `CRM` · `APIs` · `Full Stack` · `Business Systems`
 
 ---
 
-## Currently Building & Learning
+# 📈 GitHub Activity
 
-* AI-powered business automation
-* Advanced n8n workflow architecture
-* Production-ready Next.js applications
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cadetsikandar&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadetsikandar&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cadetsikandar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+
+</div>
+
+---
+
+# 📚 Certifications
+
+<div align="center">
+
+| Certification                       | Provider |
+| ----------------------------------- | -------- |
+| Google Project Management           | Google   |
+| Google IT Support                   | Google   |
+| Introduction to AI                  | IBM      |
+| Foundations: Data, Data, Everywhere | Google   |
+
+</div>
+
+---
+
+# 🧭 Currently Exploring
+
+```text
+AI Agents
+    ↓
+Tool Calling
+    ↓
+Multi-step AI Workflows
+    ↓
+Production Automation
+    ↓
+Scalable SaaS
+```
+
+Currently improving my skills in:
+
+* Advanced n8n architecture
+* AI agents & tool calling
 * TypeScript
-* FastAPI backend systems
-* CRM automation & integrations
-* AI agents and tool-based workflows
-* Scalable SaaS and internal business systems
+* Next.js
+* FastAPI
+* AI-powered SaaS
+* Production API architecture
+* CRM automation
+* Scalable workflow systems
 
 ---
 
-## Let's Build Something
+# 📫 Let's Work Together
 
-I'm interested in working on projects involving:
+<div align="center">
 
-* AI automation
-* n8n / Make.com workflows
-* CRM integrations
-* Lead generation systems
-* AI agents
-* API integrations
-* Full-stack applications
-* Business process automation
+### Have a repetitive business process?
 
-<p align="center">
-  <a href="https://sikandarportfolio-five.vercel.app/">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sikandar-ali-sk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sikandar.umrani.5@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Let's automate it.
 
-<p align="center">
-  <i>Building automation systems that turn repetitive work into reliable software.</i>
-</p>
+<br/>
+
+<a href="https://sikandarportfolio-five.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20VIEW%20PORTFOLIO-22D3EE?style=for-the-badge&labelColor=0F172A"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sikandar-ali-sk/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:sikandar.umrani.5@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+**Automation · AI · CRM · APIs · Full Stack**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:164E63,100:0F172A&height=120&section=footer"/>
+
+### ⚡ *Building systems that make work disappear.*
+
+</div>
